@@ -1,0 +1,1 @@
+cc -I. calculation.c io.c utilities.c calculator.c -o calculator
